@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-20T00:43:33+00:00",
+  "generatedAt": "2026-04-20T00:57:17+00:00",
   "templateKeys": 4090,
   "locales": [
     {
       "code": "de",
       "file": "app_de.arb",
-      "keys": 4087,
-      "percent": 99,
-      "updated": "2026-04-19"
+      "keys": 4090,
+      "percent": 100,
+      "updated": "2026-04-20"
     },
     {
       "code": "es",
